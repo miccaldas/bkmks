@@ -1,0 +1,231 @@
+/* TITLES 
+font-family: 'Comfortaa', cursive;
+font-family: 'Libre Barcode 128 Text', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Share', cursive; */
+
+/* TEXT
+font-family: 'Barlow Semi Condensed', sans-serif;
+font-family: 'Cutive Mono', monospace;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Signika', sans-serif;
+font-family: 'Space Mono', monospace; */
+
+ *, *::before, *::after{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box; 
+  }
+
+body {
+  background-color: #474747;
+  color: #96bca4;
+  min-height: 100vh;
+}
+
+
+.flex-container {
+  display: flex;
+  position: relative;
+  min-height: 100vh;
+  align-items: center;
+  min-width: 950px;
+}
+
+.col {
+    height: 100vh;
+    width: 10px;
+}
+
+.col + .col {
+    margin-left: 2%;
+}
+
+#col1 {
+    width: 10px;
+}
+
+#col2 {
+    margin-top: ; 
+}
+
+#col3 {
+    width: 10px;
+}
+
+/* unvisited link */
+a:link {
+  color: #ff7878;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #608d98;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: #74d680;
+  text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+
+
+
+/* -------------------------------Header - https://codepen.io/sathishlxg/pen/JoLOYR------------------------------*/
+a, a:hover {
+  text-decoration: none;
+  font-weight: 600; }
+
+nav {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 50px;
+  background: "";
+  box-shadow: 0 0px 9px 4px rgba(0, 0, 0, 0.1), 0 -5px 2px 2px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  min-width: 580px; }
+  nav .logo {
+    position: relative;
+    float: left;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 15px;
+    font-size: 22px;
+    font-weight: 900;
+    text-transform: uppercase; }
+    nav .logo span {
+      display: inline-block;
+      position: relative;
+      top: -8px;
+      font-size: 13pt; }
+    nav .logo:hover {
+      color-background: 7e7e7e; }
+  nav .links {
+    float: right;
+    margin-right: 30px;
+    position: relative; }
+    nav .links li {
+      float: left;
+      list-style: none;
+      position: relative;
+      margin: 10px;
+      display: inline-block; }
+      nav .links li > a {
+        position: relative;
+        display: inline-block;
+        padding: 0 10px;
+        line-height: 30px;
+        height: 30px; }
+        nav .links li > a:hover {
+          color: "";
+          background: 7e7e7e;
+          border-radius: 2px; }
+        nav .links li > a[class^="trigger-"] {
+          padding-right: 40px; }
+        nav .links li > a .arrow {
+          position: absolute;
+          width: 10px;
+          height: 10px;
+          top: 35%;
+          text-align: center;
+          right: 10px;
+          border-width: 5px 5px 0 5px;
+          border-style: solid;
+          border-color: rgba(0, 0, 0, 0.3) transparent; }
+          nav .links li > a .arrow:after {
+            content: "";
+            border-left: 1px solid rgba(0, 0, 0, 0.15);
+            top: -10px;
+            left: -15px;
+            position: absolute;
+            height: 15px; }
+      nav .links li ul {
+        position: absolute;
+        left: 0;
+        margin: 0;
+        background: "";
+        border-radius: 2px;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+        display: none; }
+        nav .links li ul > li {
+          clear: both;
+          list-style: none;
+          display: block;
+          padding: 0 10px;
+          margin: 0;
+          width: 100%; }
+          nav .links li ul > li:hover {
+            background: 7e7e7e; }
+            nav .links li ul > li:hover > a {
+              background: l7e7e7e;
+              color: ""; }
+      nav .links li:hover > .drop {
+        display: block;
+        animation: fadeInRight .3s ease;
+        -webkit-animation: fadeInRight .3s ease; }
+
+@keyframes fadeInRight {
+  0% {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0); }
+  100% {
+    opacity: 1;
+    transform: none; } }
+/*--------------------------------------------Pagina Search-------------------------------------------------- */
+
+
+h2 {
+    margin-top: 450px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.search_form {
+    text-align: center;
+}
+
+.search_form input[type="text"] {
+    width: 70%;
+    border-radius: 10px;
+    height: 60px;
+    padding: 10px;
+}
+
+.search_form input[type="submit"] {
+    border-radius: 10px;
+    height: 60px;
+    font-size: 30px;
+    padding: 10px;
+}
+
+/* ------------------------------------------Results Page --------------------------------------- */
+
+.title {
+margin-top: 50px;
+margin-right: 50px;
+margin-left: 50px;
+font-size: 30px;
+font-family: 'Noto Sans KR', sans-serif;
+}

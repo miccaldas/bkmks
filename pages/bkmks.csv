@@ -1,0 +1,166 @@
+1|AutoExpect|autoexpect watches you interacting with another program and creates an Expect script that reproduces your interactions. Useful when creating scripts|http://expect.sourceforge.net/example/autoexpect.man.html|autoexpect|expect|scripts|2020-12-17 19:51:01
+3|A brief introduction to GPG |What it says on the title|https://loganmarchione.com/2015/12/brief-introduction-gpg/#Generate_a_key_pair|gpg|gnupg|keys|2020-12-17 20:15:55
+4|How to configure Backblaze B2 with Duplicity on Linux|How to configure Backblaze with Duplicity. Better explained|https://help.backblaze.com/hc/en-us/articles/115001518354-How-to-configure-Backblaze-B2-with-Duplicity-on-Linux|backblaze|duplicity|backups|2020-12-17 20:17:29
+5|Crontab Guru|Site to help write cron dates|https://crontab.guru|cron|cronie|crontab|2020-12-17 20:18:15
+6|Append Current Date To Filename in Bash Shell|How to use date function in other contexts|https://www.cyberciti.biz/faq/unix-linux-appleosx-bsd-shell-appending-date-to-filename/|date|filename|scripts|2020-12-17 20:20:15
+7|Easy Incremental Backups With Tar|How to use tar to backup your computer|https://www.agix.com.au/easy-incremental-backups-with-tar-on-centos-redhat/|tar|backup|incremental|2020-12-17 20:21:15
+8|Automated Clonezilla Backup/Restore|How to automate clonezilla backup/restore|https://whatthefdidido.wordpress.com/2016/05/04/automated-clonezilla-backuprestore/|clonezilla|backup|restore|2020-12-17 20:22:05
+9|Trending vim color schemes|Vim ColorSchemes|https://vimcolorschemes.com/|vim|color|colorschemes|2020-12-17 20:24:50
+10|ASCII Generator|Make pretty titles for cli apps|http://www.network-science.de/ascii/|ascii|cli|decorations|2020-12-17 20:27:23
+11|ButterBlog|List of Streaming Sites|https://blog.buttermouth.com/|butter|butterblog|streaming|2020-12-17 20:28:09
+12|Short URL|ShortURL.at is a free tool to shorten a URL or reduce a link|https://www.shorturl.at/|url|url shortener|shortener|2020-12-17 20:37:13
+13|Clonezilla documentation|Clonezilla Live documentation|shorturl.at/ayBLT|clonezilla|live|documentation|2020-12-17 20:38:49
+14|Good Python SQLite3 Tutorial|The purpose of this Python SQLite tutorial is to demonstrate how to develop Python database applications with the SQLite database. |https://pynative.com/python-sqlite/|sqlite|python|tutorial|2020-12-17 20:56:01
+16|SQLite Tutorial|A pure SQLite only tutorial|https://www.tutorialspoint.com/sqlite/index.htm|sqlite|tutorial|db|2020-12-17 21:05:42
+17|Snap Store|Place to Download Snaps|https://snapcraft.io/store|snaps|snap|downloads|2020-12-18 01:25:18
+18|Deezer|Audio Streaming Site|https://www.deezer.com|deezer|streaming|music|2020-12-18 05:13:31
+19|See glyphs in font|Online service to visualize content of font|https://torinak.com/font/lsfont.html#|font|glyphs|visualize|2020-12-18 19:26:19
+20|Machine Learning from Scratch|"A complete guide on how to start learning machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field."|https://github.com/louisfb01/start-machine-learning-in-2020|ml|machine learning|ai|2021-01-01 18:43:56
+21|Sci-Hub|Pirated Scientific Papers|https://sci-hub.se/|paper|science|pirate|2021-01-04 15:51:16
+22|Library Genesis|Pirated Books|http://libgen.is/\
+|pirate|books|ebooks|2021-01-07 19:53:12
+23|ManyBooks|Pirated Books|https://manybooks.net/|pirate|books|ebooks|2021-01-07 19:55:54
+24|Zlibrary|Pirated Books|https://b-ok.cc/|pirate|books|ebooks|2021-01-07 20:02:09
+25|Tresorit Cli|Explicação do cli da Tresorit|https://support.tresorit.com/hc/en-us/articles/360009330614-Using-Tresorit-CLI-for-Linux|tresorit|Tresorit|cli|2021-01-07 21:52:58
+26|Dive Into Deep Learning|Intro to Deep Learning|https://d2l.ai|ai|machine learning|deep|2021-01-08 02:35:09
+27|Numpy Quick Start|Intro to Numpy|https://numpy.org/devdocs/user/quickstart.html#basic-operations|numpy|intro|arrays|2021-01-08 10:00:04
+28|Bitly URL Shortener|URL Shortener|https://bitly.com/|shortener|url shortener|bitly|2021-01-09 02:06:45
+29|Python Data Science Handbook Online|Online version of the book|https://jakevdp.github.io/PythonDataScienceHandbook/|data science|ml|python|2021-01-09 02:58:18
+30|Numpy Exercises Python|Set of numpy exercises|https://www.machinelearningplus.com/python/101-numpy-exercises-python/|numpy|ml|exercises|2021-01-09 03:04:42
+31|O meu ficheiro no Colab|Colab é um Jupyter Notebooks só que muito melhor|https://colab.research.google.com/drive/1OSnjbSFSBlbrwPe3zlGTbIiBZjFDynEG#scrollTo=hJfrOw9Y0Nrw|colab|jupyter|ml|2021-01-09 03:06:41
+32|Intro to Machine Learning|Pequenissimo curso que quero fazer daqui a uns tempos|https://www.kaggle.com/learn/intro-to-machine-learning|ml|curso|course|2021-01-09 03:08:58
+33|Numpy Quick Start|intro optima sobre numpy no site deles|https://numpy.org/devdocs/user/quickstart.html|numpy|quick start|ml|2021-01-09 03:10:47
+34|Questionary|Cli UI Library|https://questionary.readthedocs.io|questionary|questionnary|ui|2021-01-09 05:11:42
+35|Questionnaire|Another Cli UI Library|https://github.com/kylebebak/questionnaire|questionnaire|ui|cli|2021-01-09 05:13:11
+36|Keybindings in ZSH|How to create keybindings in ZSH|https://jdhao.github.io/2019/06/13/zsh_bind_keys/|keybindings|shortcuts|shortcut|2021-01-09 16:27:20
+37|Normalization Techniques in Python Using NumPy|Normalizing datasets with Python and NumPy for analysis and modeling.|https://towardsdatascience.com/normalization-techniques-in-python-using-numpy-b998aa81d754|normalization|numpy|ml|2021-01-10 07:58:23
+38|Router MEO|Pagina de acesso ao router|http://192.168.1.254|meo|router|online|2021-01-12 17:11:45
+39|Mailx Cheat Sheet|Quase todos os comandos enumerados|https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa500/mailx.htm|mailx|cheat sheet|mail|2021-01-12 23:56:07
+40|Use Traceroute and MTR|How to use these two network analysis tools|https://www.digitalocean.com/community/tutorials/how-to-use-traceroute-and-mtr-to-diagnose-network-issues|traceroute|mtr|network|2021-01-13 20:41:52
+41|How to create a Mail server with SSL/TLS on Linux|Important just to know how to implement ssl/tls|https://www.techticity.com/howto/how-to-create-a-mail-server-with-ssl-tls-on-linux/|starttls|ssl/tls|ssl|2021-01-14 02:53:16
+42|256 Colors Cheat Sheet|Cheat sheet with the xterm colors|https://web.archive.org/web/20190712111427/https://jonasjacek.github.io/colors/|colors|256|color|2021-01-14 18:47:50
+43|Icecream Python Debugging Tool|Icecream is a Python library that makes print debugging more readable with minimal code.|https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc|icecream|debugging|debug|2021-01-17 23:54:33
+44|Trepan Python Debugger|Documentation for python debugger|https://python2-trepan.readthedocs.io|debugger|debug|trepan3k|2021-01-18 03:08:13
+45|Git platform where I keep my stuff|Trying this service to see how I like it|https://notabug.org|notabug|git|version|2021-01-18 16:20:16
+46|Git Documentation|It's Notabug's language|https://git-scm.com/docs|git|notabug|version|2021-01-18 16:26:09
+47|Creating Vim templates|How to create a skeleton configuration for vim files|https://vimawesome.com/plugin/vim-templates-are-made-of|templates|skeleton|vim|2021-01-19 13:45:21
+48|EverSQL| SQL Syntax Checker and Validator. Helpfull for when you're going crazy trying to guess what the hell is wrong this time.|https://www.eversql.com/sql-syntax-check-validator/|sqlite|mysql|syntax checker|2021-01-20 09:35:26
+49|List of Project Based Python Lessons|O que vi pareceu-me muito bem.|https://github.com/tuvtran/project-based-learning#python|python|learn to code|learning|2021-01-20 11:42:40
+50|Fire|App that turns everything into a command-line app|https://github.com/google/python-fire/blob/master/examples/identity/identity.py|fire|python|cli|2021-01-20 12:36:49
+51|Visidata| Tabulated Data Analyzer. Think of it as a cli Excel, but much more humble|https://www.visidata.org/docs/customize/|visidata|excel|tables|2021-01-20 13:22:01
+52|CliFlix|Cli torrent downloader and Player. It plays as it downloads and does it well.|https://github.com/fabiospampinato/cliflix|cliflix|torrents|pirataria|2021-01-20 13:56:55
+53|Sultan a simpler subprocess|Does what subprocess does but it looks much simpler and way friendlier|https://sultan.readthedocs.io/en/latest/|sultan|subprocess|python|2021-01-20 14:30:36
+54|Creating FULLTEXT Indexes for Full-Text Search|in this tutorial, you will learn how to define the full-text index for performing various full-text searches in MySQL.|https://www.mysqltutorial.org/activating-full-text-searching.aspx/|fulltext|full text|mysql|2021-01-22 18:57:16
+55|Create MySQl's  Full Text Indexes|Mysql's equivalent of Sqlite's virtual tables|https://www.mysqltutorial.org/activating-full-text-searching.aspx/|search|full text|mysql|2021-01-22 20:46:39
+57|Mycli, Mysql in Terminal|A cli frontend for Mysql|https://www.mycli.net|mycli|mysql|frontwnd|2021-01-23 19:47:04
+58|How To Use Rsync to Sync Local and Remote Directories|How to use rsync|https://tinyurl.com/ye5rkavy|rsync|backups|backup|2021-04-21 01:04:07
+59|How to install Gitea|Better than the official documentation|https://tinyurl.com/yetv596e|gitea|installation|git|2021-04-21 03:02:47
+60|Rich|Rich is a Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code.|https://rich.readthedocs.io|rich|command line|tables|2021-05-01 09:12:44
+61|Cherrypy|Python micro web framework|https://docs.cherrypy.org|cherrypy|web framework|web|2021-05-01 15:20:13
+62|Bookcut|BookCut is a Python Command Line Interface tool, that help the user to download free e-books|https://github.com/costis94/bookcut|bookcut|ebooks|ebook|2021-06-04 23:54:19
+63|Artvee|Browse and download high-resolution, public domain artworks|https://artvee.com/|artvee|public domain|paintings|2021-06-15 10:45:59
+64|Lighttpd Documentation|lighttpd is a secure, fast, compliant, and very flexible web-server|https://tinyurl.com/yzw5xh3h|lighttpd|web server|apache|2021-06-19 14:22:02
+65|HTML to Markdown Converter|This and other good tools|https://tinyurl.com/yza7nten|html|markdown|converter|2021-06-23 23:17:43
+66|Resize Images|Image resizer|https://tinyurl.com/ydtyr2g4|resize|images|resizer|2021-06-23 23:21:42
+67|Ls-colors| modified ls that print icons|https://tinyurl.com/ybboeh4e|ls-colors|icons|terminal|2021-06-25 23:53:01
+68|warning: remote HEAD refers to nonexistent ref|What to do if said error appears on git clone|https://tinyurl.com/yec5jm7d|git|clone|git clone|2021-06-26 02:26:40
+69|Getting Started With Nginx|Tutorial for Nginx first steps|https://tinyurl.com/yew2tbzz|nginx|tutorial|configuration|2021-06-28 18:38:38
+70|Serve PHP with PHP-FPM and NGINX|How to configure php with php-fpm and nginx|https://tinyurl.com/yzqrw9eu|nginx|php|php-fpm|2021-06-28 18:40:01
+71|How to fetch data from Database in PHP PDO |How to get db information to a site|https://tinyurl.com/yj5mom4s|php|pdo|mysql|2021-06-28 20:05:16
+72|See Icons in Font|See available icons on a font|https://fontdrop.info|icons|fonts|glyphs|2021-06-29 03:30:03
+73|See glyphs in font|See glyphs in a font|https://tinyurl.com/yggxn32x|glyphs|icons|fonts|2021-06-29 04:27:59
+74|Markdown Cheatsheet|A cheatsheet for markdown|https://tinyurl.com/jxo2ve3|markdown|md|syntax|2021-06-29 13:34:15
+75|Vim PHP Code Sniffer|Linter for PHP|https://github.com/squizlabs/PHP_CodeSniffer|php|linter|php-code-sniffer|2021-07-01 21:17:52
+76|PHP-CS_FIXER|Corrects errors in PHP|https://tinyurl.com/yz57k4x6|php|php-cs-fixer|errors|2021-07-01 22:25:18
+77|How to style a radio buttons form|What to put in a CSS to style radio buttons|https://tinyurl.com/y7xeckhh|css|radio buttons|buttons|2021-07-02 21:21:45
+78|Password for Web Directories|How to password protect certain server directories| https://tinyurl.com/y8tl973e|password|web|html|2021-07-03 02:51:05
+79|Free Frontend|Frontend Resources|https://freefrontend.com|css|html|javascript|2021-07-03 15:26:48
+80|Change Colors of PNG Files|Change colors of png files online|https://tinyurl.com/ye3bfcy4|change colors|png|online|2021-07-03 16:16:59
+82|Sass|CSS extension language|https://sass-lang.com\
+|sass|css|scss|2021-07-05 07:56:50
+83|Vertically center an element in CSS|How to vertically center an element|https://tinyurl.com/yjkk262n|css|vertically center|center|2021-07-05 08:18:17
+86|On Scroll Header|How to have content not pass over header|https://tinyurl.com/y5c67goa|html|css|header|2021-07-05 08:35:08
+88|Transformer|Converts ttf to webfonts|https://transfonter.org|webfont|ttf|otf|2021-07-05 15:39:51
+89|All selectors|Official CSS selectors|https://www.w3.org/TR/CSS/#selectors|css|selectors|selector|2021-07-08 00:55:50
+90|Learn You a Haskell for Great Good!|Intro do Haskell|Learn You a Haskell for Great Good!|haskell|tutorial|intro|2021-07-13 21:00:14
+91|Code Beautify|JSON Beautifier, XML Viewer, JSON Converters, Hex Converters and More...|https://codebeautify.org|css|converters|validator|2021-07-14 00:39:40
+92|txt2html|Cli text to html converter|https://tinyurl.com/yfwqzxlc|text|html|converter|2021-07-15 02:55:37
+93|Find and Replace Text in Vim|How to replace and find text in Vim|find|vim|replace|https://linuxize.com/post/vim-find-replace/|2021-07-19 04:28:20
+94|CSS Frameworks List|List of several css frameworks|https://tinyurl.com/y8krh4yk|css|framework|scss|2021-07-19 13:42:41
+96|Black|Python code formatter|https://black.readthedocs.io/en/stable/index.html|black|formatter|formatting|2021-08-06 13:52:31
+97|Arrow|Python date and time library|https://arrow.readthedocs.io/en/latest/|arrow|date|time|2021-08-06 14:20:28
+98|Flake8|Documentação do linter|https://flake8.pycqa.org/en/3.1.1/index.html|flake8|linter|ale|2021-08-06 17:18:06
+99|sathadhy|fgbgxzf|xfgf|rsfg|xdfg|sfgr|2021-08-07 07:26:49
+100|Urwid|http://urwid.org|Cli app builder library|urwid|command line|tui|2021-08-07 10:31:25
+101|Ricepedia|https://rizonrice.club/Main_Page|Wiki on ricing|ricing|rice|tuning|2021-08-07 12:03:14
+104|Fselect|https://github.com/jhspetersson/fselect|Searches for files with SQL querys|fselect|search|files|2021-08-07 22:08:17
+105|Navi|https://github.com/denisidoro/navi|An interactive cheatsheet tool for the command-line.|navi|cheatsheet|cheatsheets|2021-08-07 22:42:37
+106|How2|https://github.com/santinic/how2|Queries Stack Overflow from our question in natural language. All in cli,|how2|questions|queries|2021-08-07 22:53:13
+107|hr|https://github.com/LuRsT/hr/wiki|Creates an horizontal line in terminal|hr|line|lines|2021-08-07 23:03:13
+108|k|https://github.com/supercrabtree/k|Directory listings for zsh with git features|k|git|repos|2021-08-07 23:46:19
+109|Loop|https://github.com/Miserlou/Loop|Loops for the shell|loop|loops|shell|2021-08-07 23:59:13
+110|Marker|https://github.com/pindexis/marker|Bookmarks Shell Commands|marker|bookmarks|bookmark|2021-08-08 00:28:17
+111|SHML|https://odb.github.io/shml/getting-started/|Shell Markup Language|shml|markup|shell|2021-08-08 00:54:01
+112|add-gitignore|https://github.com/TejasQ/add-gitignore|Adds gitignore files to projects|add-gitignore|gitignore|git|2021-08-08 01:31:26
+113|Visualize Python Code|http://www.pythontutor.com/visualize.html#mode=edit|A visualizer for Python code|visualizer|python|web|2021-08-08 06:02:17
+114|Requests|https://docs.python-requests.org/en/master/|Python HTTP library|requests|http|python|2021-08-08 10:42:29
+115|Scrapy|https://docs.scrapy.org|Python Web Scraper|scrapy|scraper|python|2021-08-08 10:43:57
+116|pycrumbs|https://github.com/kirang89/pycrumbs|List of interesting links for Python.\
+|pycrumbs|python|awesome|2021-08-09 23:12:02
+117|awesome-awesomeness|https://github.com/bayandin/awesome-awesomeness|A list of awesome lists|awesome|lists|awesome lists|2021-08-09 23:13:45
+118|codementor|https://www.codementor.io|Site with cool python projects to do|codementor|python|projects|2021-08-09 23:19:32
+119|Using Scrapy for Python|https://www.datacamp.com/community/tutorials/making-web-crawlers-scrapy-python|Good tutorial on Scrapy|scrapy|python|crawler|2021-08-11 02:34:59
+123|Pytermgui|TUI framework for your Python|https://github.com/bczsalba/pytermgui|pytermgui|cli|python|2021-08-13 09:42:34
+146|Ripgrep|ripgrep manpage|https://www.mankier.com/1/rg|ripgrep|rg|grep|2021-08-13 17:08:58
+147|Python Projects|Cool Python projects.|https://github.com/karan/Projects#data-structures|projects|python|project|2021-08-13 20:03:51
+148|Spell Check in Vim|https://www.linux.com/training-tutorials/using-spell-checking-vim/|Spell tool native to Vim|vim|spell|spelling|2021-08-21 00:03:34
+149|Python Like You mean It|Python Like You Mean It (PLYMI) is a free resource for learning the basics of Python & NumPy|https://www.pythonlikeyoumeanit.com/index.html|python|numpy|learning|2021-08-21 00:35:05
+153|Special HTML characters and codes|Some characters in HTML require special codes|https://www.computerhope.com/spechtm.htm|html|characters|character codes|2021-08-21 05:39:22
+154|Google Style Guide|Has an interesting definition of docstrings in python|https://github.com/google/styleguide/blob/gh-pages/pyguide.md#doc-function-args|google|docstring|documentation|2021-08-21 15:33:37
+155|Orator|Very pretty ORM that I would like to study later on.|https://orator-orm.com|orator|orm|databases|2021-08-22 13:04:24
+156|Sed Documentation|Documentation for Sed. A bit sparse|https://www.gnu.org/software/sed/manual/sed.html#sed-commands-list|sed|documentation|text|2021-08-27 02:08:14
+157|What characters to escape in Sed|Characters that need escaping in Sed|https://tinyurl.com/y49uo42g|sed|escaping|text|2021-08-27 16:57:01
+158|Loop through file in Bash|How to use a loop in Bash|https://codefather.tech/blog/bash-loop-through-lines-file/|bash|script|loop|2021-08-27 20:21:10
+159|50 Sed Commands|Commands for Sed|https://linuxhint.com/50_sed_command_examples/#s9|sed|bash|scripts|2021-08-27 20:23:14
+160|Grep, Awk and Sed|Intro to the three tools|https://tinyurl.com/yby62ljv|grep|awk|sed|2021-08-28 05:16:06
+161|Sed Documentation|GNU's Sed documentation|https://www.gnu.org/software/sed/manual/html_node/|sed|bash|text|2021-08-28 16:02:16
+162|Regex101|Online Regex editor with some internesting features|https://regex101.com|regex|sed|bash|2021-08-28 16:07:24
+163|One Liners for Sed|GNU's collection of Sed short scripts|http://sed.sourceforge.net/sed1line.txt|sed|bash|text|2021-08-28 16:13:03
+164|Sed Cheatsheet|A cheatsheet for Sed|https://anaturb.net/sed.htm|sed|cheatsheet|bash|2021-08-28 16:15:35
+165|Regular Expressions Tutorial|Tutorial on Regexp|https://www.grymoire.com/Unix/Regular.html|regexp|regular expressions|sed|2021-08-28 16:19:32
+166|XML Parsing|Parsing XML, for such things as svg images|http://www2.hawaii.edu/~takebaya/cent110/xml_parse/xml_parse.html|xml|beautiful sopup|zsh|2021-08-28 23:54:28
+167|List of typographical symbols and punctuation marks|This is a list of the most common typographical symbols and punctuation marks used with Latin script. |https://tinyurl.com/yztjl74a|punctuation|symbols|typography|2021-08-31 11:23:09
+168|Project Learn|Project based tutorials for web development|https://projectlearn.io|projectlearn|projects|tutorial|2021-09-02 11:39:00
+169|Logo-ls|modern ls command with beautiful Icons and Git Integrations .|https://github.com/Yash-Handa/logo-ls|logo-ls|ls|files|2021-09-04 00:44:23
+170|FuzzyWuzzy|Fuzzy string matching like a boss. It uses Levenshtein Distance to calculate the differences|https://github.com/seatgeek/fuzzywuzzy|fuzzywuzzy|strings|matching|2021-09-04 18:39:19
+171|FuzzyWuzzy Tutorial|Tutorial on FuzzyWuzzy|https://www.datacamp.com/community/tutorials/fuzzy-string-python|fuzzywuzzy|tutorial|strings|2021-09-04 18:40:35
+172|Clipmenu|Clipboard manager that I intend to use as a scratchpad|https://github.com/cdown/clipmenu|clipmenu|clipboard|scratchpad|2021-09-04 20:58:57
+173|Import Python Files From Another Directory|Import Python Files From Another Directory|https://gist.github.com/MRobertEvers/55a989b4883ea8d7715d2e156627f034|python|import|imports|2021-09-18 10:52:16
+174|Zettelkasten Method|Introduction to the Zettelkasten Method|https://zettelkasten.de/introduction/|zettelkasten|notes|note|2021-09-18 10:53:27
+175|Bat|Cat substitute|https://www.cyberciti.biz/open-source/bat-linux-command-a-cat-clone-with-written-in-rust/|bat|cat|bash|2021-09-29 09:35:24
+176|Deploy Ruby App in Linux Server|How to deploy a ruby site|https://tinyurl.com/ygbbasyt|ruby|rails|servers|2021-10-22 00:42:12
+177|LocalTunnel|Allows outside access at localhost environment|https://localtunnel.github.io/www/|localtunnel|tunnel|localhost|2021-10-22 17:52:32
+178|Sqlitebiter|Cli tool to turn tabular files in sqlite db's|https://sqlitebiter.readthedocs.io/en/latest/pages/usage/file/index.html|sqlitebiter|sqlite|csv|2021-10-23 00:34:59
+179|Boxes|Easier way to access dictionary elements|https://github.com/cdgriffith/Box|boxes|dictionaries|python|2021-10-23 10:33:52
+180|Pysnooper|Soft Debugging|https://github.com/cool-RR/PySnooper|pysnooper|python|debug|2021-10-23 11:40:13
+181|Selenium|Browser Automation Tool|https://www.selenium.dev/documentation/|selenium|browser|automation|2021-10-23 13:34:28
+182|Cli Helpers|Cli library about tabular data|https://github.com/dbcli/cli_helpers|cli_helpers|python|tables|2021-10-23 14:56:37
+183|Flask Now|Automates folder creation in Flask projects|https://github.com/ozanonurtek/flask-now|flask|flask now|bootstrap|2021-10-24 10:09:10
+184|Add search to Hugo static sites with Lunr|Trying to put search in a blog|https://victoria.dev/blog/add-search-to-hugo-static-sites-with-lunr/#full-code-for-searchjs|lunr|search|blog|2021-10-26 08:32:03
+185|SQLAlchemy Tutorial|Tutorial sobre sqlalchemy que me parece bom.|https://tinyurl.com/yfby59kn|sqlalchemy|orm|mysql|2021-10-26 12:51:01
+186|Pixlet|Apontador de sites de noticias de tech|https://www.pxlet.com|pixlet|news|aggregator|2021-10-27 13:24:27
+187|Image Resizer|Online image resizer|https://resizeimage.net|resize|online|image|2021-10-27 21:20:15
+188|CSS Linter|Online linter for css|http://csslint.net/#results|css|linter|online|2021-10-27 23:43:25
+189|Build a Command-Line To-Do App With Python and Typer|Interesting project|https://realpython.com/python-typer-cli/|todo|python|typer|2021-11-08 16:20:39
+190|Lona|Python library for web client side|https://lona-web.org|lona|python|web|2021-11-08 16:36:04
+191|Cirrus CSS|Cool CSS framework|https://cirrus-ui.netlify.app|cirrus|css|web|2021-11-09 09:36:09
+192|Accessing model fields in Django html template|How to access your db values in the html.|https://tinyurl.com/yfkmkbb7|django|model|template|2021-11-10 17:49:18
+193|Upskill|Sessões Formação|https://upskill.pt|upskill|formação|emprego|2021-11-12 18:03:46
+194|Django Girls Tutorial|Simple tutorial on Django|https://tutorial.djangogirls.or|django|tutorial|django girls|2021-11-12 18:05:22
+195|Setup Django, Gunicorn, Postgres|How to deploy django apps|https://tinyurl.com/yjt2vqcj|django|gunicorn|wsgi|2021-11-13 01:33:38
+196|Data Selection in Pandas|When using csv files it's better to manage them with pandas|https://tinyurl.com/yzd3235u|pandas|panda_selection\
+|select|2021-11-13 09:07:04
+197|Django Query Types|All formats to ask questions to a db in Django|https://tinyurl.com/yzqqq6dp|django|queries|questions|2021-11-14 23:26:27
+198|How to Retrieve Data from a Django Form|How to create and get information from a Django form|https://tinyurl.com/yeo2zer7|django|forms|python|2021-11-14 23:27:45
+199|SCSS to CSS Converter|Converts to regular CSS|https://jsonformatter.org|css|converter|scss|2021-11-15 05:12:30
+200|Buttons CSS|Various css for buttons|https://getcssscan.com/css-buttons-examples|buttons|css|web|2021-11-15 05:29:15
